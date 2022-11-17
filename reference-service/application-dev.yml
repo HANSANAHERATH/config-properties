@@ -1,1 +1,2 @@
-min-app-count: 100
+properties:
+  mincount: 100
